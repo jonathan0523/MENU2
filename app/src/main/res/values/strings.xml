@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="Altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="edad">Edad</string>
+</resources>
